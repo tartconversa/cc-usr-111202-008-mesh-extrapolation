@@ -1,0 +1,12 @@
+{
+  "order_bounds": [
+    0.1,
+    8
+  ],
+  "safety_factor": 1.25,
+  "relative_iteration_error_fraction": 0.01,
+  "root_tolerance": 1e-09,
+  "perturbation_search_budget": 10000,
+  "require_certified_bounds": false,
+  "zero_denominator": "absolute_only"
+}

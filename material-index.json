@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/convergence.json",
+    "sha256": "c679c17bfb53c6544843e50ea50c13c83e68bc10f89ab6815d6668c4232214ea",
+    "size_bytes": 255
+  },
+  {
+    "path": "fixtures/grids.csv",
+    "sha256": "4e6480bc36147ef8116ab564ef20c951d77820dbb778a1a5c850311a94da933a",
+    "size_bytes": 410
+  }
+]
